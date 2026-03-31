@@ -151,8 +151,8 @@ The contract stores `PurchaseOrder` as **shared objects**, making them accessibl
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd fe_gate_ready
+git clone https://github.com/Pasquale-Silv/fe_dapp_gate_ready
+cd fe_dapp_gate_ready
 
 # Install dependencies
 pnpm install
