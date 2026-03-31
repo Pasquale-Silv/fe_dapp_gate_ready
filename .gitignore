@@ -1,1 +1,10 @@
 node_modules
+dist
+build
+coverage
+docs
+.env
+.DS_Store
+.idea
+.vscode
+*.log
